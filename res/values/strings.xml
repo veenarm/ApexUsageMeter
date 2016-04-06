@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">Apex Usage Meter</string>
+    <string name="titlePrefs">Apex User Preferences</string>
+    <string name="app_name">Apex Usage Meter</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="plan">Plan</string>
+    <string name="period_start">Meter Start</string>
+    <string name="period_end">Meter End</string>
+    <string name="usage_period">Period</string>
+    <string name="metered_download">Usage</string>
+    <string name="unmetered_download">Unmetered</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="buttonRetrieve">Refresh Data</string>
+    <string name="titleServiceStart">Start Retrieval Service</string>
+    <string name="titleServiceStop">Stop Retrieval Service</string>
+    <string name="quota">Quota</string>
+    <string name="upload_result">Upload Total</string>
+    
+    
+    <!-- Preferences Strings -->
+    <string name="preferencesUsername">Please enter your Apex username</string>
+    <string name="preferencesPassword">Please enter your Apex password</string>
+    <string name="refreshInterval">Data retrieval in minutes</string>
+    <string name="preferencesRefreshInterval">How often service to fetch new data.</string>
+    
+</resources>
